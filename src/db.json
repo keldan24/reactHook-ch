@@ -1,0 +1,44 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "Movie Title",
+        "description": "Movie Description",
+        "posterURL": "/images/freecodecamp.jpeg",
+        "rating": 8.5,
+        "trailerURL": "https://youtu.be/Dt97fesKfYk?si=HcGKXJH5NgpDzUFM"
+      },
+      {
+        "id": 2,
+        "title": "Another Movie",
+        "description": "Another Movie Description",
+        "posterURL": "/images/img.jpeg",
+        "rating": 9.2,
+        "trailerURL": "https://youtu.be/Dt97fesKfYk?si=HcGKXJH5NgpDzUFM"
+      },
+      {
+        "id": 3,
+        "title": "Yet Another Movie",
+        "description": "Yet Another Movie Description",
+        "posterURL": "/images/img2.jpeg",
+        "rating": 7.8,
+        "trailerURL": "https://youtu.be/Dt97fesKfYk?si=HcGKXJH5NgpDzUFM"
+      },
+      {
+        "id": 4,
+        "title": "The Last Movie",
+        "description": "The Last Movie Description",
+        "posterURL": "/images/img3.jpeg",
+        "rating": 9.0,
+        "trailerURL": "https://youtu.be/Dt97fesKfYk?si=HcGKXJH5NgpDzUFM"
+      },
+      {
+        "id": 5,
+        "title": "The Best Movie Ever",
+        "description": "The Best Movie Ever Description",
+        "posterURL": "/images/backdropfood.jpeg",
+        "rating": 10,
+        "trailerURL": "https://youtu.be/Dt97fesKfYk?si=HcGKXJH5NgpDzUFM"
+      }
+    ]
+  }
